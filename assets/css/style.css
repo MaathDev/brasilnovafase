@@ -782,12 +782,12 @@ section .container {
   display: flex;
   bottom: 0;
   right: 0;
-  width: 50%;
+  width: 40%;
   float: right;
 }
 
 .header-img img {
-  width: 700px;
+  width: 500px;
 }
 
 .header-image i
